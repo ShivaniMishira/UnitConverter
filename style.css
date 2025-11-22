@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color: rgb(237, 238, 239);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.top {
+    background-color: rgb(125, 43, 226);
+    background-size: cover;
+    height: 300px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+
+
+}
+
+input {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(125, 43, 226);
+    color: white;
+    font-size: 50px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    color: rgb(125, 43, 226);
+    border: 1px white;
+    border-radius: 2px;
+    padding: 10px 30px;
+
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 40px 0;
+    text-align: center;
+    margin: 20px 40px;
+    flex-direction: column;
+
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.card-sub {
+    display: inline;
+    background-color: white;
+    width: 50%;
+    height: 120px;
+    text-align: center;
+    margin: 10px 0 20px 0;
+}
+
+.right {
+    padding-right: 40px;
+    padding-left: 10px;
+}
+
+.left {
+    padding-left: 40px;
+    padding-right: 10px;
+
+}
+
+.vi {
+    border-left: 2px solid black;
+    height: 20px;
+
+}
