@@ -6,7 +6,7 @@ body {
 }
 
 .top {
-    background-color: rgb(125, 43, 226);
+    background-color: rgb(50, 9, 100);
     background-size: cover;
     height: 300px;
     color: white;
@@ -21,7 +21,7 @@ body {
 input {
     width: 100px;
     height: 100px;
-    background-color: rgb(125, 43, 226);
+    background-color: rgb(50, 9, 100);
     color: white;
     font-size: 50px;
     border: 1px solid white;
@@ -32,7 +32,7 @@ input {
 
 button {
     background-color: white;
-    color: rgb(125, 43, 226);
+    color: rgb(50, 9, 100);
     border: 1px white;
     border-radius: 2px;
     padding: 10px 30px;
